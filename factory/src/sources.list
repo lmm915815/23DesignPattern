@@ -1,0 +1,10 @@
+src/org/tlq/test/AmdMainboard.java
+src/org/tlq/test/ComputerEngineer.java
+src/org/tlq/test/Cpu.java
+src/org/tlq/test/InterCpu.java
+src/org/tlq/test/InterMainboard.java
+src/org/tlq/test/MainboardFactory.java
+src/org/tlq/test/Mainboard.java
+src/org/tlq/test/AmdCpu.java
+src/org/tlq/test/CpuFactory.java
+src/org/tlq/test/Client.java
